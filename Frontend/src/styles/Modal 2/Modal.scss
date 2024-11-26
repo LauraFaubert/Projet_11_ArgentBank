@@ -1,0 +1,12 @@
+.modal-backdrop{
+    display: block;
+}
+.modal-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.625rem;
+    h2{
+        font-size: 1.25rem;
+    }
+}
